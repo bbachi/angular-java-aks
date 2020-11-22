@@ -1,2 +1,2 @@
-# angular-java-aks
-Example Project on how to deploy Angular app with Java backend on Azure AKS
+# angular-java-ecs
+Example Project on how we can deploy Angular with java on AWS ECS
